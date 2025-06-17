@@ -35,7 +35,7 @@ If the program is not run for a set number of days, it **deletes a target folder
 
 ### Steps
 1. Clone or download this repository.
-2. Compile the program located in `src/main.cpp` using a C++17 or newer compiler.  
+2. Compile the program located in `src/dead_mans_switch.cpp` using a C++17 or newer compiler.  
    Example (using g++):  
    ```bash
-   g++ -std=c++17 src/main.cpp -o DeadMansSwitch.exe
+   g++ -std=c++17 src/dead_mans_switch.cpp -o DeadMansSwitch.exe
